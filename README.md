@@ -1,21 +1,61 @@
 # Hello there; I'm Rasheed Olatunde 👋🏾
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Linkedin Badge](https://img.shields.io/badge/-iamolatunderasheed-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olatunderasheed)](https://www.linkedin.com/in/olatunderasheed) [![Twitter Badge](https://img.shields.io/badge/-geodevportfolio-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://geodevcodes.vercel.app)](https://geodevcodes.vercel.app) [![Twitter Badge](https://img.shields.io/badge/-@geodevcodes-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://geodevcodes.vercel.app)](https://geodevcodes.vercel.app)
+[![LinkedIn Badge](https://img.shields.io/badge/-iamrasheedolatunde-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rasheed-olatunde)
+[![GitHub Badge](https://img.shields.io/badge/-geodevcodes-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geodevcodes)
+[![Portfolio Badge](https://img.shields.io/badge/-geodevcodes.vercel.app-6C47FF?style=for-the-badge&logo=vercel&logoColor=white)](https://geodevcodes.vercel.app)
 
-Experienced Frontend Developer with 4+ years of expertise in building intuitive, high-performance web and mobile applications. Skilled in modern technologies and frameworks to deliver scalable, user-focused solutions. Recognized for strong leadership and mentorship, with a proven ability to translate complex technical concepts into clear, actionable insights for cross-functional teams.
-
-Committed to inspire the next generation of developers, I aim to make a lasting impact by driving the adoption of new technologies and championing career advancement. [Portfolio Website](https://geodevcodes.vercel.app/)
-
-**Here's a quick summary about me**:
-
-- 😊 Pronouns: He/him
-- 🌱 I’m Proficient in using AI Integration, Typescript, JavaScript, Reactjs, NextJs, Tailwindcss, styled-component, React-Native, ExpressJs, NestJs.
-- 😊 I’m looking for help with Jobs, open source projects, hackathons opportunities.
-- 💼 Job interests: Software Engineering, Frontend Engineering.
-- 📫 You can [view my resume](https://docs.google.com/document/d/1HG7RN7PFtuzhx1CuvgpJh-4LZ4D1Fs0clnvXVJV3074/edit?usp=sharing) and contact me by emailing olatunde336@gmail.com.
+Experienced Software Developer with 5+ years of expertise in building intuitive, high-performance web and mobile applications. Skilled in modern technologies and frameworks to deliver scalable, user-focused solutions. Recognized for strong leadership and mentorship, with a proven ability to translate complex technical concepts into clear, actionable insights for cross-functional teams.
+[Portfolio Website](https://geodevcodes.vercel.app/)
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=geodevcodes&show_icons=true&include_all_commits=true&hide_border=true" alt="Olatunde Rasheed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geodevcodes&langs_count=8&layout=compact&hide_border=true" alt="Olatunde's GitHub stats" /> |
-| ------------- | ------------- |
+## Projects I’ve Developed:
 
+- [Avwings (Mobile App)](https://expo.dev/artifacts/eas/bQnJH14ohyBQTg7VdPdE6T.apk) : An airline management system designed to streamlining flight operations, bookings, and passenger management with real-time data handling.
+- [Geomatic Connect](https://www.geomaticconnect.work/) : A modern SaaS job portal that connects Geomatics students with companies offering internships, SIWES/IT placements, and training opportunities, streamlining talent discovery and industry collaboration.
+- [Incite360](https://expo.dev/artifacts/eas/bQnJH14ohyBQTg7VdPdE6T.apk) : An AI-powered, customizable survey platform that enables businesses to collect, analyze, and derive actionable insights from customer feedback in real time.
+- [Athaqofiy LMS (Mobile App)](https://expo.dev/artifacts/eas/85ZUDUoeFt6TyGcQYhe9Ms.apk) : A digital learning management system designed for Muslim kids and adults to learn Arabic and Islamic studies, providing structured, accessible, and faith-centered educational content.
+- [Alive Home](https://www.alivehome.co/) : A real estate platform leveraging proprietary AI to verify property listings, estimate fair market value, and intelligently match users with suitable homes.
+- [Monae (Mobile Ap)](https://expo.dev/artifacts/eas/isdAney42ve9619kkTWqct.apk) : A conversational finance platform tailored for Gen Z and young professionals in Africa, enabling users to track expenses, manage budgets, and build sustainable financial habits through an intuitive chat interface.
+
+---
+
+## Tech Stack
+
+<!-- Languages -->
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NativeWind](https://img.shields.io/badge/nativewind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
+
+---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=geodevcodes&show_icons=true&include_all_commits=true&hide_border=true" alt="Rasheed Olatunde's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geodevcodes&langs_count=8&layout=compact&hide_border=true" alt="Rasheed Olatunde's GitHub stats" /> |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
