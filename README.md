@@ -16,6 +16,6 @@ Committed to inspire the next generation of developers, I aim to make a lasting 
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=olatunde1998&show_icons=true&include_all_commits=true&hide_border=true" alt="Olatunde Rasheed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olatunde1998&langs_count=8&layout=compact&hide_border=true" alt="Olatunde's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=geodevcodes&show_icons=true&include_all_commits=true&hide_border=true" alt="Olatunde Rasheed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olatunde1998&langs_count=8&layout=compact&hide_border=true" alt="Olatunde's GitHub stats" /> |
 | ------------- | ------------- |
 
