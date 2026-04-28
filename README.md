@@ -57,5 +57,10 @@ Experienced Software Developer with 5+ years of expertise in building intuitive,
 
 ---
 
+### 🔗 Let's connect
+[🌐 Website](https://geodevcodes.vercel.app/en) • [📧 Email](mailto:olatunde336@gmail.com) • [📺 YouTube](https://www.youtube.com/@geodevcodes) • [💼 LinkedIn](https://www.linkedin.com/in/rasheed-olatunde/) • [🐦 X (Twitter)](https://x.com/geodevcodes)
+
+---
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=geodevcodes&show_icons=true&include_all_commits=true&hide_border=true" alt="Rasheed Olatunde's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geodevcodes&langs_count=8&layout=compact&hide_border=true" alt="Rasheed Olatunde's GitHub stats" /> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
