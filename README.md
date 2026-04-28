@@ -13,8 +13,8 @@ Experienced Software Developer with 5+ years of expertise in building intuitive,
 
 - [Avwings (Mobile App)](https://expo.dev/artifacts/eas/bQnJH14ohyBQTg7VdPdE6T.apk) : An airline management system designed to streamlining flight operations, bookings, and passenger management with real-time data handling.
 - [Geomatic Connect](https://www.geomaticconnect.work/) : A modern SaaS job portal that connects Geomatics students with companies offering internships, SIWES/IT placements, and training opportunities, streamlining talent discovery and industry collaboration.
-- [Incite360](https://expo.dev/artifacts/eas/bQnJH14ohyBQTg7VdPdE6T.apk) : An AI-powered, customizable survey platform that enables businesses to collect, analyze, and derive actionable insights from customer feedback in real time.
-- [Athaqofiy LMS (Mobile App)](https://expo.dev/artifacts/eas/85ZUDUoeFt6TyGcQYhe9Ms.apk) : A digital learning management system designed for Muslim kids and adults to learn Arabic and Islamic studies, providing structured, accessible, and faith-centered educational content.
+- [Incite360](https://geodevcodes.vercel.app/en/projects/ai-powered-incite360) : An AI-powered, customizable survey platform that enables businesses to collect, analyze, and derive actionable insights from customer feedback in real time.
+- [Athaqofiy LMS (Mobile App)](https://expo.dev/artifacts/eas/v1PBpKBuJ9RHFRKPRgkaFF.apk) : A digital learning management system designed for Muslim kids and adults to learn Arabic and Islamic studies, providing structured, accessible, and faith-centered educational content.
 - [Alive Home](https://www.alivehome.co/) : A real estate platform leveraging proprietary AI to verify property listings, estimate fair market value, and intelligently match users with suitable homes.
 - [Monae (Mobile App)](https://expo.dev/artifacts/eas/isdAney42ve9619kkTWqct.apk) : A conversational finance platform tailored for Gen Z and young professionals in Africa, enabling users to track expenses, manage budgets, and build sustainable financial habits through an intuitive chat interface.
 
