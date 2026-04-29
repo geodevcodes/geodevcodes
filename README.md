@@ -11,7 +11,7 @@ Experienced Software Developer with 5+ years of expertise in building intuitive,
 
 ## Projects I’ve Developed:
 
-- [Avwings (Mobile App)](https://expo.dev/artifacts/eas/bQnJH14ohyBQTg7VdPdE6T.apk) : An airline management system designed to streamlining flight operations, bookings, and passenger management with real-time data handling.
+- [Avwings (Mobile App)](https://expo.dev/artifacts/eas/hSsEV6TYf3zCVJboDQ9xNF.apk) : An airline management system designed to streamlining flight operations, bookings, and passenger management with real-time data handling.
 - [Geomatic Connect](https://www.geomaticconnect.work/) : A modern SaaS job portal that connects Geomatics students with companies offering internships, SIWES/IT placements, and training opportunities, streamlining talent discovery and industry collaboration.
 - [Incite360](https://geodevcodes.vercel.app/en/projects/ai-powered-incite360) : An AI-powered, customizable survey platform that enables businesses to collect, analyze, and derive actionable insights from customer feedback in real time.
 - [Athaqofiy LMS (Mobile App)](https://expo.dev/artifacts/eas/v1PBpKBuJ9RHFRKPRgkaFF.apk) : A digital learning management system designed for Muslim kids and adults to learn Arabic and Islamic studies, providing structured, accessible, and faith-centered educational content.
