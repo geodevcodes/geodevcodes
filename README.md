@@ -1,4 +1,11 @@
+<p align="right">
+  <a href="https://geodevcodes.vercel.app/en">🌐 Website</a> •
+  <a href="mailto:olatunde336@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/rasheed-olatunde/">💼 LinkedIn</a>
+</p>
+
 # Hello there; I'm Rasheed Olatunde 👋🏾
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/-iamrasheedolatunde-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rasheed-olatunde)
 [![GitHub Badge](https://img.shields.io/badge/-geodevcodes-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geodevcodes)
@@ -11,12 +18,12 @@ Experienced Software Developer with 5+ years of expertise in building intuitive,
 
 ## Projects I’ve Developed:
 
-- [Avwings (Mobile App)](https://expo.dev/artifacts/eas/hSsEV6TYf3zCVJboDQ9xNF.apk) : An airline management system designed to streamlining flight operations, bookings, and passenger management with real-time data handling.
-- [Geomatic Connect](https://www.geomaticconnect.work/) : A modern SaaS job portal that connects Geomatics students with companies offering internships, SIWES/IT placements, and training opportunities, streamlining talent discovery and industry collaboration.
-- [Incite360](https://geodevcodes.vercel.app/en/projects/ai-powered-incite360) : An AI-powered, customizable survey platform that enables businesses to collect, analyze, and derive actionable insights from customer feedback in real time.
-- [Athaqofiy LMS (Mobile App)](https://expo.dev/artifacts/eas/v1PBpKBuJ9RHFRKPRgkaFF.apk) : A digital learning management system designed for Muslim kids and adults to learn Arabic and Islamic studies, providing structured, accessible, and faith-centered educational content.
-- [Alive Home](https://www.alivehome.co/) : A real estate platform leveraging proprietary AI to verify property listings, estimate fair market value, and intelligently match users with suitable homes.
-- [Monae (Mobile App)](https://expo.dev/artifacts/eas/isdAney42ve9619kkTWqct.apk) : A conversational finance platform tailored for Gen Z and young professionals in Africa, enabling users to track expenses, manage budgets, and build sustainable financial habits through an intuitive chat interface.
+- [Avwings (Mobile App)](https://expo.dev/artifacts/eas/hSsEV6TYf3zCVJboDQ9xNF.apk) : Airline management system for flight operations, bookings, and passenger management.
+- [Geomatic Connect](https://www.geomaticconnect.work/) : SaaS job portal connecting Geomatics students with internship and SIWES opportunities.
+- [Incite360](https://geodevcodes.vercel.app/en/projects/ai-powered-incite360) : AI-powered survey platform for collecting and analyzing customer feedback in real time.
+- [Athaqofiy LMS (Mobile App)](https://expo.dev/artifacts/eas/v1PBpKBuJ9RHFRKPRgkaFF.apk) : Learning app for Muslim kids and adults to study Arabic and Islamic studies.
+- [Alive Home](https://www.alivehome.co/) : AI-driven real estate platform for verified listings, fair valuations, and smart home matching.
+- [Monae (Mobile App)](https://expo.dev/artifacts/eas/isdAney42ve9619kkTWqct.apk) : Conversational finance app helping young Africans track expenses and build healthy money habits.
 
 ---
 
@@ -58,6 +65,7 @@ Experienced Software Developer with 5+ years of expertise in building intuitive,
 ---
 
 ### 🔗 Let's connect
+
 [🌐 Website](https://geodevcodes.vercel.app/en) • [📧 Email](mailto:olatunde336@gmail.com) • [📺 YouTube](https://www.youtube.com/@geodevcodes) • [💼 LinkedIn](https://www.linkedin.com/in/rasheed-olatunde/) • [🐦 X (Twitter)](https://x.com/geodevcodes)
 
 ---
