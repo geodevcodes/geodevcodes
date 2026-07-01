@@ -69,5 +69,14 @@ Experienced Software Developer with 5+ years of expertise in building intuitive,
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=geodevcodes&show_icons=true&include_all_commits=true&hide_border=true" alt="Rasheed Olatunde's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geodevcodes&langs_count=8&layout=compact&hide_border=true" alt="Rasheed Olatunde's GitHub stats" /> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+## 🎬 Featured YouTube Videos
+
+<div align="start" style="display: flex; flex-wrap: wrap; justify-content: start; ">
+<a href="https://youtu.be/d2GhAX8xjxM" target="_blank">
+  <img 
+    src="https://ytcards.demolab.com/?id=d2GhAX8xjxM&title=Rasheed+Olatunde+-+Software+Developer+Portfolio+(Demo+Walkthrough)&lang=en&timestamp=2026-07-01&views=120&channel=Rasheed+Olatunde" 
+    alt="Rasheed Olatunde - Software Developer Portfolio Demo Walkthrough" 
+    width="300"
+  />
+</a>
+</div>
