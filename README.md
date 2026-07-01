@@ -79,4 +79,11 @@ Experienced Software Developer with 5+ years of expertise in building intuitive,
     width="300"
   />
 </a>
+<a href="https://youtu.be/o9fTjNIPjpU" target="_blank">
+  <img 
+    src="https://ytcards.demolab.com/?id=o9fTjNIPjpU&title=The+Incite360+Video+Guide&lang=en&timestamp=2026-07-01&views=120&channel=Rasheed+Olatunde" 
+    alt="The Incite360 Video Guide" 
+    width="300"
+  />
+</a>
 </div>
