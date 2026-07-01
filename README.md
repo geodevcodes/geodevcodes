@@ -23,7 +23,6 @@ Experienced Software Developer with 5+ years of expertise in building intuitive,
 - [Incite360](https://geodevcodes.vercel.app/en/projects/ai-powered-incite360) : AI-powered survey platform for collecting and analyzing customer feedback in real time.
 - [Athaqofiy LMS (Mobile App)](https://expo.dev/artifacts/eas/wTaEiYZHWYx5EFYcvMhBrz.apk) : Learning app for Muslim kids and adults to study Arabic and Islamic studies.
 - [Alive Home](https://www.alivehome.co/) : AI-driven real estate platform for verified listings, fair valuations, and smart home matching.
-- [Monae (Mobile App)](https://expo.dev/artifacts/eas/isdAney42ve9619kkTWqct.apk) : Conversational finance app helping young Africans track expenses and build healthy money habits.
 
 ---
 
